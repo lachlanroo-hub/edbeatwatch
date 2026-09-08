@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Emily's Education Reporting Watch</title>
+<style>
+  :root{
+    --bg:#f6f4ef; --paper:#fff; --ink:#1c2430; --muted:#697386; --line:#dfe3e8;
+    --accent:#8a2f2f; --soft:#f3ece8; --green:#2f6b4f; --amber:#8b6418;
+    --blue:#355f8a; --lav:#6b5a8e;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink)}
+  header{padding:52px 6vw 30px;background:linear-gradient(135deg,#f8f3ed 0%,#efe5dd 100%);border-bottom:1px solid var(--line)}
+  .eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:12px;font-weight:800;color:var(--accent)}
+  h1{margin:8px 0 10px;font-size:clamp(32px,5vw,58px);line-height:1.02;max-width:950px;font-family:Georgia,'Times New Roman',serif}
+  .subtitle{color:var(--muted);max-width:850px;font-size:17px;line-height:1.5}
+  .wrap{padding:28px 6vw 70px}
+  .nav{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:20px}
+  .nav a,.filter{border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:999px;padding:9px 13px;font-weight:700;font-size:13px;text-decoration:none}
+  .filter{cursor:pointer}
+  .filter.active{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:18px}
+  .card{background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 4px 16px rgba(20,30,40,.04)}
+  .full{grid-column:span 12}
+  .section-title{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:14px}
+  h2,h3{margin:0} h2{font-family:Georgia,'Times New Roman',serif;font-size:29px} h3{font-size:20px}
+  .pill{font-size:11px;border-radius:999px;padding:6px 9px;font-weight:800;background:var(--soft);color:var(--accent);white-space:nowrap}
+  .status-dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--green);margin-right:6px}
+  .bucket-note{font-size:13px;color:var(--muted);margin:0 0 10px}
+  .alert-row{
+    display:grid;
+    grid-template-columns:115px minmax(0,1fr);
+    gap:18px;
+    padding:17px 0;
+    border-top:1px solid var(--line);
+  }
+  .alert-row:first-of-type{border-top:none}
+  .date-col{
+    font-size:12px;
+    color:var(--muted);
+    font-weight:800;
+    line-height:1.35;
+    padding-top:2px;
+  }
+  .date-col .day{display:block;color:var(--ink);font-size:13px}
+  .date-col .year{display:block}
+  .meta{color:var(--muted);font-size:11px;font-weight:750;letter-spacing:.03em;margin-bottom:6px}
+  .title{font-size:18px;font-weight:800;margin-bottom:6px}
+  p{color:#414c5b;line-height:1.5}
+  .alert-row p,.data-item p{margin:0 0 10px}
+  .tags{display:flex;flex-wrap:wrap;gap:7px}
+  .tag{font-size:10px;border-radius:6px;padding:5px 7px;background:#f2f4f6;color:#4f5d6c;font-weight:800}
+  .tag.urgent{background:#f8e7e4;color:var(--accent)}
+  .tag.data{background:#e8f0f8;color:var(--blue)}
+  .tag.records{background:#f4eedf;color:var(--amber)}
+  .tag.follow{background:#e7f2eb;color:var(--green)}
+  .tag.archive{background:#eeeaf6;color:var(--lav)}
+  details{border-top:1px solid var(--line)}
+  details:first-of-type{border-top:none}
+  summary{cursor:pointer;list-style:none;padding:15px 0;font-weight:800;display:flex;justify-content:space-between;gap:14px}
+  summary::-webkit-details-marker{display:none}
+  summary:after{content:"+";font-size:20px;color:var(--muted)}
+  details[open] summary:after{content:"–"}
+  .history-body{padding:0 0 8px}
+  .data-buckets{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+  @media(max-width:900px){
+    .data-buckets{grid-template-columns:1fr}
+    .alert-row{grid-template-columns:88px minmax(0,1fr);gap:12px}
+  }
+  .data-bucket{border:1px solid var(--line);border-radius:14px;padding:17px;background:#fbfbfc}
+  .data-bucket h4{margin:0 0 8px;font-size:18px}
+  .dataset{padding:13px 0;border-top:1px solid var(--line)}
+  .dataset:first-of-type{border-top:none;padding-top:4px}
+  .dataset strong{display:block;margin-bottom:5px}
+  .dataset p{margin:0 0 9px;font-size:14px}
+  .dataset a{display:inline-block;color:var(--blue);font-weight:800;text-decoration:none;margin-right:12px;margin-bottom:5px}
+  .dataset a:hover{text-decoration:underline}
+  .empty{border:1px dashed #cbd2d9;border-radius:10px;padding:12px;color:var(--muted);background:#fff;font-size:13px}
+  .footer{margin-top:28px;color:var(--muted);font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <div class="eyebrow">Education reporting dashboard</div>
+  <h1>Emily’s Education Reporting Watch</h1>
+  <div class="subtitle">
+    A living archive of reporting alerts, organized by beat, with a permanent library for important education datasets and source links.
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="nav">
+    <a href="#top-leads">Top Leads</a>
+    <a href="#history">Alert History</a>
+    <a href="#data-library">Important Data</a>
+  </div>
+
+  <div class="nav">
+    <button class="filter active" data-filter="all">All current leads</button>
+    <button class="filter" data-filter="data">Data</button>
+    <button class="filter" data-filter="records">Records request</button>
+    <button class="filter" data-filter="follow">Needs follow-up</button>
+    <button class="filter" data-filter="urgent">Strong lead</button>
+  </div>
+
+  <div class="grid">
+
+    <section class="card full" id="top-leads">
+      <div class="section-title">
+        <h2>Top Leads</h2>
+        <span class="pill"><span class="status-dot"></span>Current</span>
+      </div>
+
+      <article class="alert-row item data follow" data-tags="data follow">
+        <div class="date-col"><span class="day">Sept. 8</span><span class="year">2026</span></div>
+        <div>
+          <div class="meta">CRDC</div>
+          <div class="title">2023–24 CRDC public-use file is still awaiting release</div>
+          <p>The federal CRDC site is live with 2023–24 material, but the full public-use download has not yet appeared. Once released, the Massachusetts file is a strong candidate for a statewide scan of discipline, disability, restraint/seclusion, advanced coursework, staffing and policing disparities.</p>
+          <div class="tags"><span class="tag data">DATA</span><span class="tag follow">FOLLOW-UP</span></div>
+        </div>
+      </article>
+
+      <article class="alert-row item follow" data-tags="follow">
+        <div class="date-col"><span class="day">Sept. 8</span><span class="year">2026</span></div>
+        <div>
+          <div class="meta">ALPHA MASSACHUSETTS</div>
+          <div class="title">Continue tracking local approvals, public-school partnerships, privacy, litigation and corporate ties</div>
+          <p>New school-committee actions, Springfield Empowerment Zone developments, contracts, parent communications, lawsuits, lobbying, corporate filings and student-data practices remain high-value reporting targets.</p>
+          <div class="tags"><span class="tag follow">FOLLOW-UP</span></div>
+        </div>
+      </article>
+    </section>
+
+    <section class="card full" id="history">
+      <div class="section-title">
+        <div>
+          <h2>Alert History</h2>
+          <p class="bucket-note">Every alert stays in its beat bucket. Dates are fixed in the left column so you can scan the archive quickly.</p>
+        </div>
+        <span class="pill">Archive by beat</span>
+      </div>
+
+      <details open>
+        <summary><span>Alpha Massachusetts</span><span class="tag archive">HISTORY</span></summary>
+        <div class="history-body">
+          <article class="alert-row">
+            <div class="date-col"><span class="day">Sept. 8</span><span class="year">2026</span></div>
+            <div>
+              <div class="title">Alpha Massachusetts watch consolidated</div>
+              <p>Tracking private-school expansion, Springfield/public-school partnerships, AI and ed-tech, student privacy, litigation, lobbying, ownership and related entities.</p>
+            </div>
+          </article>
+        </div>
+      </details>
+
+      <details>
+        <summary><span>Special Education & Seclusion</span><span class="tag archive">HISTORY</span></summary>
+        <div class="history-body">
+          <article class="alert-row">
+            <div class="date-col"><span class="day">Sept. 8</span><span class="year">2026</span></div>
+            <div>
+              <div class="title">Special ed, restraint, seclusion and placement watch</div>
+              <p>Tracking disability services, out-of-district placement delays, restraint/seclusion/timeout, staffing, DESE enforcement, due process and inequities.</p>
+            </div>
+          </article>
+        </div>
+      </details>
+
+      <details>
+        <summary><span>School Segregation</span><span class="tag archive">HISTORY</span></summary>
+        <div class="history-body">
+          <article class="alert-row">
+            <div class="date-col"><span class="day">Sept. 8</span><span class="year">2026</span></div>
+            <div>
+              <div class="title">Segregation, housing and school inequity watch</div>
+              <p>Tracking the Massachusetts segregation lawsuit, attendance boundaries, METCO, housing/zoning, enrollment patterns and racial disparities.</p>
+            </div>
+          </article>
+        </div>
+      </details>
+
+      <details>
+        <summary><span>Massachusetts Schools & Climate</span><span class="tag archive">HISTORY</span></summary>
+        <div class="history-body">
+          <article class="alert-row">
+            <div class="date-col"><span class="day">Sept. 8</span><span class="year">2026</span></div>
+            <div>
+              <div class="title">Broad Massachusetts schools and climate watch</div>
+              <p>Tracking governance, budgets, procurement, facilities, AI, special education, discipline, heat/HVAC, environmental hazards and climate resilience.</p>
+            </div>
+          </article>
+        </div>
+      </details>
+
+      <details>
+        <summary><span>CRDC Data Release</span><span class="tag archive">HISTORY</span></summary>
+        <div class="history-body">
+          <article class="alert-row">
+            <div class="date-col"><span class="day">Sept. 8</span><span class="year">2026</span></div>
+            <div>
+              <div class="title">2023–24 public-use file not yet downloadable</div>
+              <p>The release watch is active. When the downloadable file appears, add the official file link here and begin the Massachusetts analysis.</p>
+              <div class="tags"><span class="tag data">DATA</span><span class="tag follow">FOLLOW-UP</span></div>
+            </div>
+          </article>
+        </div>
+      </details>
+    </section>
+
+    <section class="card full" id="data-library">
+      <div class="section-title">
+        <div>
+          <h2>Important Data</h2>
+          <p class="bucket-note">Permanent dataset bookmarks, organized by reporting use rather than by agency.</p>
+        </div>
+        <span class="pill">Data library</span>
+      </div>
+
+      <div class="data-buckets">
+
+        <div class="data-bucket">
+          <h4>Civil Rights</h4>
+          <div class="dataset">
+            <strong>Civil Rights Data Collection (CRDC)</strong>
+            <p>Federal school- and district-level data on discipline, disability, restraint/seclusion, course access, staffing, harassment and other civil-rights measures.</p>
+            <a href="https://civilrightsdata.ed.gov/" target="_blank" rel="noopener">Open CRDC ↗</a>
+            <a href="https://civilrightsdata.ed.gov/about/faqs" target="_blank" rel="noopener">CRDC FAQ ↗</a>
+            <div class="tags"><span class="tag data">FEDERAL</span><span class="tag follow">2023–24 FILE PENDING</span></div>
+          </div>
+        </div>
+
+        <div class="data-bucket">
+          <h4>Discipline</h4>
+          <div class="empty">Add DESE discipline, suspension, expulsion, restraint, school arrest/referral and disproportionality datasets here.</div>
+        </div>
+
+        <div class="data-bucket">
+          <h4>Special Education</h4>
+          <div class="empty">Add IDEA enrollment, disability category, placement, inclusion, restraint/seclusion, due-process, OOD and service-access datasets here.</div>
+        </div>
+
+        <div class="data-bucket">
+          <h4>Enrollment & Demographics</h4>
+          <div class="empty">Add enrollment, race/ethnicity, economically disadvantaged, English learner, school choice, charter and district demographic datasets here.</div>
+        </div>
+
+        <div class="data-bucket">
+          <h4>Finance</h4>
+          <div class="empty">Add district spending, per-pupil expenditure, Chapter 70, municipal contributions, federal aid, grants, procurement and audit datasets here.</div>
+        </div>
+
+        <div class="data-bucket">
+          <h4>Staffing</h4>
+          <div class="empty">Add teacher demographics, vacancies, turnover, student-teacher ratios, counselors, social workers, psychologists and workforce datasets here.</div>
+        </div>
+
+        <div class="data-bucket">
+          <h4>Facilities & Climate</h4>
+          <div class="empty">Add MSBA, building condition, HVAC, heat, air quality, lead/water, emissions, energy, school bus and climate-resilience datasets here.</div>
+        </div>
+
+      </div>
+    </section>
+
+  </div>
+
+  <div class="footer">Last structured: Sept. 8, 2026 · Future alerts can be appended to the relevant bucket with the update date in the left column.</div>
+</div>
+
+<script>
+  const buttons = document.querySelectorAll('.filter');
+  const items = document.querySelectorAll('.item');
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const f = btn.dataset.filter;
+      items.forEach(item => item.style.display = (f === 'all' || item.dataset.tags.includes(f)) ? '' : 'none');
+    });
+  });
+</script>
+</body>
+</html>
