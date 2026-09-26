@@ -1,0 +1,13 @@
+{
+  "updated": "2026-09-26",
+  "description": "Registry of official meeting sources monitored by EdBeat Watch. Add districts here as source discovery expands.",
+  "sources": [
+    {"district":"Arlington","source_type":"civic_calendar","url":"https://www.arlingtonma.gov/town-governance/boards-and-committees/school-committee","status":"known","notes":"Meeting pages; reference materials may be added close to meeting time."},
+    {"district":"Dudley-Charlton","source_type":"district_page","url":"https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas","status":"known","notes":"Upcoming agendas, packets and video resources."},
+    {"district":"Lexington","source_type":"civicengage_agendacenter","url":"https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52","status":"known","notes":"Agenda Center retains current and prior agendas."},
+    {"district":"Masconomet","source_type":"district_page","url":"https://www.masconomet.org/school-committee/meeting-agenda-minutes-documents/minutes-agendas-and-documents","status":"known","notes":"Combined agendas, supporting documents, minutes and video archive."},
+    {"district":"Norton","source_type":"civicengage_agendacenter","url":"https://www.nortonma.gov/AgendaCenter/School-Committee-17","status":"known","notes":"Agenda Center can expose revised agendas."},
+    {"district":"Somerville","source_type":"district_page","url":"https://somerville.k12.ma.us/district-leadership/somerville-school-committee/school-committee-meetings","status":"known","notes":"School Committee meetings and GovTV links."},
+    {"district":"Springfield","source_type":"district_page","url":"https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas","status":"known","notes":"Regular and subcommittee agendas plus livestream information."}
+  ]
+}

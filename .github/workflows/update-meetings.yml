@@ -1,0 +1,35 @@
+name: Update school committee meetings
+
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: school-committee-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check official meeting sources and parse meetings
+        run: python scripts/update_meetings.py
+      - name: Commit meeting data, source state and snapshots
+        run: |
+          git config user.name "edbeatwatch-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/meetings.json data/source_state.json archive/source-snapshots/
+          if git diff --cached --quiet; then
+            echo "No meeting/source changes to commit"
+          else
+            git commit -m "Update school committee meetings"
+            git push
+          fi
