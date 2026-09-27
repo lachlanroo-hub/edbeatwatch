@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-09-27T00:33:49.831468+00:00",
+  "sources": {
+    "arlington": {
+      "district": "Arlington",
+      "url": "https://www.arlingtonma.gov/town-governance/boards-and-committees/school-committee",
+      "sha256": "7158597f3e2c1f8ce9629bd939d4bb38850deeae380ad653ae6699c0dbb68834",
+      "changed": false,
+      "last_checked": "2026-09-27T00:33:49.831468+00:00",
+      "error": null
+    },
+    "dudley-charlton": {
+      "district": "Dudley-Charlton",
+      "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "sha256": "9c51a2bd88767c8f4fc8e99ba2797e4c894f4e918b5953a3c875256c256eed60",
+      "changed": false,
+      "last_checked": "2026-09-27T00:33:49.831468+00:00",
+      "error": null
+    },
+    "lexington": {
+      "district": "Lexington",
+      "url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "sha256": "389916c9440d1510cc986db0ff797efa8d80ff1bef4accc4fb24b007df8e1453",
+      "changed": false,
+      "last_checked": "2026-09-27T00:33:49.831468+00:00",
+      "error": null
+    },
+    "masconomet": {
+      "district": "Masconomet",
+      "url": "https://www.masconomet.org/school-committee/meeting-agenda-minutes-documents/minutes-agendas-and-documents",
+      "sha256": "9e736269a5d0ee1030a369f6b277c8fcac5d0fc089cd0dab04a8f5c936f9cd93",
+      "changed": false,
+      "last_checked": "2026-09-27T00:33:49.831468+00:00",
+      "error": null
+    },
+    "norton": {
+      "district": "Norton",
+      "url": "https://www.nortonma.gov/AgendaCenter/School-Committee-17",
+      "sha256": "8c92e41c3179ff2f24ac0f6229ae241ce05cab487d518f4d30584e55bfb9a8ba",
+      "changed": false,
+      "last_checked": "2026-09-27T00:33:49.831468+00:00",
+      "error": null
+    },
+    "somerville": {
+      "district": "Somerville",
+      "url": "https://somerville.k12.ma.us/district-leadership/somerville-school-committee/school-committee-meetings",
+      "changed": false,
+      "last_checked": "2026-09-27T00:33:49.831468+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "springfield": {
+      "district": "Springfield",
+      "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "sha256": "5fcd52c7c931dab0250284f3bbbfa76b8a70fb720cec5a640c3f07d11ec0bba5",
+      "changed": false,
+      "last_checked": "2026-09-27T00:33:49.831468+00:00",
+      "error": null
+    }
+  }
+}
