@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:29:26.470932+00:00",
+  "generated_at": "2026-09-29T12:34:32.592804+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -175,6 +175,92 @@
       "discovered_at": "2026-09-27T00:33:49.831468+00:00"
     },
     {
+      "id": "91ab0e4b756a4816",
+      "district": "Dudley-Charlton",
+      "date": "2026-10-02",
+      "time": "14:30",
+      "title": "School Committee Agendas, Minutes and Videos Upcoming School Committee Agendas Budget and Finance Subcommittee : Friday, October 2, 2026 - 2:30pm - Video Conf School Committee Meeting: Wednesday, October 21, 2026 - 6:30 pm - CMS Policy \u00a0 Review Subcommittee : ",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-09-29T12:34:32.592804+00:00"
+    },
+    {
+      "id": "5312a650cedd7f40",
+      "district": "Dudley-Charlton",
+      "date": "2026-10-02",
+      "time": null,
+      "title": "Budget and Finance Subcommittee 2026 Minutes October 2, 2026 - Agenda Only September 4, 2026 - Agenda Only August 13, 2026 - Agenda Only",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-09-29T12:34:32.592804+00:00"
+    },
+    {
       "id": "f7c01d68f3c7b5ad",
       "district": "Springfield",
       "date": "2026-10-07",
@@ -259,6 +345,49 @@
         }
       ],
       "discovered_at": "2026-09-27T00:33:49.831468+00:00"
+    },
+    {
+      "id": "d68e5ce6714713a4",
+      "district": "Dudley-Charlton",
+      "date": "2026-10-21",
+      "time": "14:30",
+      "title": "Upcoming School Committee Agendas Budget and Finance Subcommittee : Friday, October 2, 2026 - 2:30pm - Video Conf School Committee Meeting: Wednesday, October 21, 2026 - 6:30 pm - CMS Policy \u00a0 Review Subcommittee : TBD\u00a0 - District Office Capital Outlay/Safety ",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-09-29T12:34:32.592804+00:00"
     },
     {
       "id": "dc4b52036638b892",
