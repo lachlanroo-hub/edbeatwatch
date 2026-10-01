@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:30:07.993503+00:00",
+  "generated_at": "2026-10-01T18:33:24.386901+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -218,6 +218,49 @@
       "discovered_at": "2026-09-29T12:34:32.592804+00:00"
     },
     {
+      "id": "aa36581777b30a23",
+      "district": "Dudley-Charlton",
+      "date": "2026-10-02",
+      "time": "14:30",
+      "title": "School Committee Agendas, Minutes and Videos Upcoming School Committee Agendas Budget and Finance Subcommittee : Friday, October 2, 2026 - 2:30pm - Video Conf Curriculum Subcommittee for Teaching &\u00a0Learning : \u00a0Monday, October 5, 2026 - 11:00am\u00a0- Video Conf Sch",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-10-01T18:33:24.386901+00:00"
+    },
+    {
       "id": "5312a650cedd7f40",
       "district": "Dudley-Charlton",
       "date": "2026-10-02",
@@ -259,6 +302,49 @@
         }
       ],
       "discovered_at": "2026-09-29T12:34:32.592804+00:00"
+    },
+    {
+      "id": "242a92808b60fc63",
+      "district": "Dudley-Charlton",
+      "date": "2026-10-05",
+      "time": "14:30",
+      "title": "Upcoming School Committee Agendas Budget and Finance Subcommittee : Friday, October 2, 2026 - 2:30pm - Video Conf Curriculum Subcommittee for Teaching &\u00a0Learning : \u00a0Monday, October 5, 2026 - 11:00am\u00a0- Video Conf School Committee Meeting: Wednesday, October 21,",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-10-01T18:33:24.386901+00:00"
     },
     {
       "id": "f7c01d68f3c7b5ad",
@@ -304,6 +390,49 @@
       "discovered_at": "2026-09-27T00:33:49.831468+00:00"
     },
     {
+      "id": "8bb9ed27d1bf76ab",
+      "district": "Springfield",
+      "date": "2026-10-07",
+      "time": "16:00",
+      "title": "Upcoming Meetings Budget & Finance Subcommittee Meeting Date: Wednesday, October 7, 2026 Time: 4:00 PM Location: Springfield City Hall",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-01T18:33:24.386901+00:00"
+    },
+    {
       "id": "3d64372bc9525f7f",
       "district": "Springfield",
       "date": "2026-10-07",
@@ -347,6 +476,135 @@
       "discovered_at": "2026-09-27T00:33:49.831468+00:00"
     },
     {
+      "id": "332a550dec21f1a1",
+      "district": "Springfield",
+      "date": "2026-10-07",
+      "time": "17:00",
+      "title": "CLICK TO VIEW THE OCTOBER 7TH AGENDA (PDF) Buildings & Maintenance Subcommittee Meeting Date: Wednesday, October 7, 2026 Time: 5:00 PM Location: Springfield City Hall",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-01T18:33:24.386901+00:00"
+    },
+    {
+      "id": "b5ea173d300e0d6d",
+      "district": "Springfield",
+      "date": "2026-10-07",
+      "time": "17:30",
+      "title": "CLICK TO VIEW THE OCTOBER 7TH AGENDA (PDF) Legislative & Contracts Subcommittee Meeting Date: Wednesday, October 7, 2026 Time: 5:30 PM Location: Springfield City Hall",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-01T18:33:24.386901+00:00"
+    },
+    {
+      "id": "6bc3496197dc5d64",
+      "district": "Springfield",
+      "date": "2026-10-08",
+      "time": "18:00",
+      "title": "CLICK TO VIEW THE OCTOBER 7TH AGENDA (PDF) Student Advisory Reps. (1) & Regular Meeting Date: Thursday, October 8, 2026 Time: 6:00 PM Location: Springfield City Hall",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-01T18:33:24.386901+00:00"
+    },
+    {
       "id": "d68e5ce6714713a4",
       "district": "Dudley-Charlton",
       "date": "2026-10-21",
@@ -388,6 +646,49 @@
         }
       ],
       "discovered_at": "2026-09-29T12:34:32.592804+00:00"
+    },
+    {
+      "id": "0ba7d52931cda28b",
+      "district": "Dudley-Charlton",
+      "date": "2026-10-21",
+      "time": "14:30",
+      "title": "Budget and Finance Subcommittee : Friday, October 2, 2026 - 2:30pm - Video Conf Curriculum Subcommittee for Teaching &\u00a0Learning : \u00a0Monday, October 5, 2026 - 11:00am\u00a0- Video Conf School Committee Meeting: Wednesday, October 21, 2026 - 6:30 pm - CMS Policy \u00a0 Rev",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-10-01T18:33:24.386901+00:00"
     },
     {
       "id": "dc4b52036638b892",
