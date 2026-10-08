@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:37:03.340887+00:00",
+  "generated_at": "2026-10-08T15:32:04.958712+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -990,6 +990,49 @@
         }
       ],
       "discovered_at": "2026-10-05T18:34:12.703765+00:00"
+    },
+    {
+      "id": "76400d4289bcae09",
+      "district": "Masconomet",
+      "date": "2026-10-07",
+      "time": null,
+      "title": "Agenda and Materials Minutes October 7, 2026 October 7, 2026 October 07, 2026",
+      "source_url": "https://www.masconomet.org/school-committee/meeting-agenda-minutes-documents/minutes-agendas-and-documents",
+      "links": [
+        {
+          "label": "School Committee Meeting Live Stream",
+          "url": "https://www.masconomet.org/school-committee/live-meeting-stream"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.masconomet.org/school-committee/meeting-schedule"
+        },
+        {
+          "label": "Meeting Agenda, Minutes, Documents",
+          "url": "https://www.masconomet.org/school-committee/meeting-agenda-minutes-documents/minutes-agendas-and-documents"
+        },
+        {
+          "label": "Minutes, Agendas, and Documents",
+          "url": "https://www.masconomet.org/school-committee/meeting-agenda-minutes-documents/minutes-agendas-and-documents"
+        },
+        {
+          "label": "Open Meeting Resources",
+          "url": "https://www.masconomet.org/school-committee/open-meeting-resources"
+        },
+        {
+          "label": "Live Meeting Stream",
+          "url": "https://www.masconomet.org/school-committee/live-meeting-stream"
+        },
+        {
+          "label": "CS2 Video Games",
+          "url": "https://www.masconomet.org/departments/business-computer-ed/cs2-video-games"
+        },
+        {
+          "label": "Public Meetings",
+          "url": "https://www.masconomet.org/public-meetings"
+        }
+      ],
+      "discovered_at": "2026-10-08T15:32:04.958712+00:00"
     },
     {
       "id": "e75575a47c8e44d8",
