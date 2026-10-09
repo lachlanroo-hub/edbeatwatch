@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:31:07.899530+00:00",
+  "generated_at": "2026-10-09T18:20:39.189015+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -1250,6 +1250,135 @@
       "discovered_at": "2026-10-05T21:31:54.347356+00:00"
     },
     {
+      "id": "cb0949fdde0702b7",
+      "district": "Lexington",
+      "date": "2026-10-09",
+      "time": "12:10",
+      "title": "Agenda Oct 13, 2026 \u2014\u2009Posted Oct 9, 2026 12:10 PM School Committee HYBRID Meeting - October 13, 2026 - REVISED AGENDA #2 10/9/26 12:10 PM Download\u00a0\u25bc",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
+        },
+        {
+          "label": "School Committee - Finance Subcommittee Meeting - October 13, 2026 REVISED AGENDA",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4304"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4304"
+        },
+        {
+          "label": "School Committee HYBRID Meeting - October 13, 2026 REVISED AGENDA",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4305"
+        }
+      ],
+      "discovered_at": "2026-10-09T18:20:39.189015+00:00"
+    },
+    {
+      "id": "5db8ae3cdd7dd1a3",
+      "district": "Lexington",
+      "date": "2026-10-13",
+      "time": "12:10",
+      "title": "Download\u00a0\u25bc Agenda Oct 13, 2026 \u2014\u2009Posted Oct 9, 2026 12:10 PM School Committee HYBRID Meeting - October 13, 2026 - REVISED AGENDA #2 10/9/26 12:10 PM",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
+        },
+        {
+          "label": "School Committee - Finance Subcommittee Meeting - October 13, 2026 REVISED AGENDA",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4304"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4304"
+        },
+        {
+          "label": "School Committee HYBRID Meeting - October 13, 2026 REVISED AGENDA",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4305"
+        }
+      ],
+      "discovered_at": "2026-10-09T18:20:39.189015+00:00"
+    },
+    {
+      "id": "9b096326e05aa8e4",
+      "district": "Lexington",
+      "date": "2026-10-13",
+      "time": "12:10",
+      "title": "Oct 13, 2026 \u2014\u2009Posted Oct 9, 2026 12:10 PM School Committee HYBRID Meeting - October 13, 2026 - REVISED AGENDA #2 10/9/26 12:10 PM Download\u00a0\u25bc Agenda",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
+        },
+        {
+          "label": "School Committee - Finance Subcommittee Meeting - October 13, 2026 REVISED AGENDA",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4304"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4304"
+        },
+        {
+          "label": "School Committee HYBRID Meeting - October 13, 2026 REVISED AGENDA",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4305"
+        }
+      ],
+      "discovered_at": "2026-10-09T18:20:39.189015+00:00"
+    },
+    {
       "id": "6c0f4ea4fd60f3d1",
       "district": "Lexington",
       "date": "2026-10-13",
@@ -1594,6 +1723,92 @@
       "discovered_at": "2026-10-07T21:29:11.790045+00:00"
     },
     {
+      "id": "484f3e0beed7c83a",
+      "district": "Springfield",
+      "date": "2026-10-14",
+      "time": "17:00",
+      "title": "Upcoming Meetings School Safety Subcommittee\u00a0Meeting Date: Wednesday, October 14, 2026 Time: 5:00 PM Location: Springfield City Hall",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-09T18:20:39.189015+00:00"
+    },
+    {
+      "id": "cfe3e5e4dbf9ce49",
+      "district": "Springfield",
+      "date": "2026-10-14",
+      "time": "18:00",
+      "title": "CLICK TO VIEW THE OCTOBER 14TH AGENDA (PDF) Career Technical Education Subcommittee Meeting Date: Wednesday, October 14, 2026 Time: 6:00 PM Location: Springfield City Hall",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-09T18:20:39.189015+00:00"
+    },
+    {
       "id": "20c2975ddf1a261e",
       "district": "Dudley-Charlton",
       "date": "2026-10-21",
@@ -1766,6 +1981,49 @@
       "discovered_at": "2026-09-27T00:33:49.831468+00:00"
     },
     {
+      "id": "c3f195839b6bb18c",
+      "district": "Springfield",
+      "date": "2026-10-22",
+      "time": "18:30",
+      "title": "CLICK TO VIEW THE OCTOBER 14TH AGENDA (PDF) Town Hall Date: Thursday, October 22, 2026 Time: 6:30 PM Location: Van Sickle Middle School Academy",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-09T18:20:39.189015+00:00"
+    },
+    {
       "id": "f269a689f81ff107",
       "district": "Dudley-Charlton",
       "date": "2026-10-30",
@@ -1893,6 +2151,49 @@
         }
       ],
       "discovered_at": "2026-10-05T21:31:54.347356+00:00"
+    },
+    {
+      "id": "a2083312bf0dcb27",
+      "district": "Springfield",
+      "date": "2026-11-12",
+      "time": "18:00",
+      "title": "CLICK TO VIEW THE OCTOBER 22ND AGENDA (PDF) Student Advisory Reps. (2) & Regular Meeting Date: Thursday, November 12, 2026 Time: 6:00 PM Location: Springfield City Hall",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-09T18:20:39.189015+00:00"
     }
   ]
 }
