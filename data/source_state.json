@@ -1,59 +1,59 @@
 {
-  "checked_at": "2026-10-09T18:20:39.189015+00:00",
+  "checked_at": "2026-10-10T00:49:21.974178+00:00",
   "sources": {
     "arlington": {
       "district": "Arlington",
       "url": "https://www.arlingtonma.gov/town-governance/boards-and-committees/school-committee",
-      "sha256": "4452eb816f7950a3fff36a6277e0ca418dafe062091252e07501b872e9127bc2",
+      "sha256": "be63b22d2d7158902b53de64d6a581438f9feb56f6323edd66890371de19a061",
       "changed": true,
-      "last_checked": "2026-10-09T18:20:39.189015+00:00",
+      "last_checked": "2026-10-10T00:49:21.974178+00:00",
       "error": null
     },
     "dudley-charlton": {
       "district": "Dudley-Charlton",
       "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
-      "sha256": "d30f8ed2f5c3564f10019cc874c2b312b0c6efa2c15eac00689c8da1e6932c1a",
+      "sha256": "4953cd5009819c07d8b85cd9634ed2dfd9d11415b0307ad1525536efa62b14a4",
       "changed": true,
-      "last_checked": "2026-10-09T18:20:39.189015+00:00",
+      "last_checked": "2026-10-10T00:49:21.974178+00:00",
       "error": null
     },
     "lexington": {
       "district": "Lexington",
       "url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
-      "sha256": "3a0443313a43a423baede0ce61745621d9b7ad8e0e35a9356290470015613cbc",
+      "sha256": "8166f1fc7b140bf7c0d3facf4669f26478688503f263cf58d46df25e940c743d",
       "changed": true,
-      "last_checked": "2026-10-09T18:20:39.189015+00:00",
+      "last_checked": "2026-10-10T00:49:21.974178+00:00",
       "error": null
     },
     "masconomet": {
       "district": "Masconomet",
       "url": "https://www.masconomet.org/school-committee/meeting-agenda-minutes-documents/minutes-agendas-and-documents",
-      "sha256": "1269221211c105d3eefddb3538b457f53621475256de452e2c5c5c6fe9f22936",
+      "sha256": "79b25ce3ea7dde2de1a1e843394ce7e56bce844f5d5b059d4244db6ec1f2da99",
       "changed": true,
-      "last_checked": "2026-10-09T18:20:39.189015+00:00",
+      "last_checked": "2026-10-10T00:49:21.974178+00:00",
       "error": null
     },
     "norton": {
       "district": "Norton",
       "url": "https://www.nortonma.gov/AgendaCenter/School-Committee-17",
-      "sha256": "5cad0baab2950b53cab9d2a17d874a302907916b9c3df226f556e22a8d33c547",
+      "sha256": "698b9b916eea09559f41e9c1198480f034368ccb6f40650a9186e4bd4e23b08b",
       "changed": true,
-      "last_checked": "2026-10-09T18:20:39.189015+00:00",
+      "last_checked": "2026-10-10T00:49:21.974178+00:00",
       "error": null
     },
     "somerville": {
       "district": "Somerville",
       "url": "https://somerville.k12.ma.us/district-leadership/somerville-school-committee/school-committee-meetings",
       "changed": false,
-      "last_checked": "2026-10-09T18:20:39.189015+00:00",
+      "last_checked": "2026-10-10T00:49:21.974178+00:00",
       "error": "HTTP Error 404: Not Found"
     },
     "springfield": {
       "district": "Springfield",
       "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
-      "sha256": "82bfcb26333ae029d72a1f1c1fb49b82a513aad71505d558e21a8adc236165a5",
+      "sha256": "a8c97a00317ff539ab1017e2c4acedfa3c15a72ac91642ef3dcb5e5687ec212d",
       "changed": true,
-      "last_checked": "2026-10-09T18:20:39.189015+00:00",
+      "last_checked": "2026-10-10T00:49:21.974178+00:00",
       "error": null
     }
   }
