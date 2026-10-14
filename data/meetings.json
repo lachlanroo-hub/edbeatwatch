@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:08:40.847874+00:00",
+  "generated_at": "2026-10-14T21:39:36.894546+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -1336,16 +1336,24 @@
       "discovered_at": "2026-10-13T19:15:32.635070+00:00"
     },
     {
-      "id": "5db8ae3cdd7dd1a3",
+      "id": "c6f2b3db4afb9e3b",
       "district": "Lexington",
       "date": "2026-10-13",
-      "time": "12:10",
-      "title": "Download\u00a0\u25bc Agenda Oct 13, 2026 \u2014\u2009Posted Oct 9, 2026 12:10 PM School Committee HYBRID Meeting - October 13, 2026 - REVISED AGENDA #2 10/9/26 12:10 PM",
+      "time": "10:57",
+      "title": "Agenda Oct 15, 2026 \u2014\u2009Posted Oct 13, 2026 10:57 AM School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026 Download\u00a0\u25bc",
       "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
       "links": [
         {
           "label": "Town Meeting",
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
         },
         {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
@@ -1366,14 +1374,49 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        }
+      ],
+      "discovered_at": "2026-10-14T21:39:36.894546+00:00"
+    },
+    {
+      "id": "5db8ae3cdd7dd1a3",
+      "district": "Lexington",
+      "date": "2026-10-13",
+      "time": "12:10",
+      "title": "Download\u00a0\u25bc Agenda Oct 13, 2026 \u2014\u2009Posted Oct 9, 2026 12:10 PM School Committee HYBRID Meeting - October 13, 2026 - REVISED AGENDA #2 10/9/26 12:10 PM",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
         },
         {
           "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
         },
         {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
+          "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "School Committee Hybrid Meeting - October 13, 2026 - REVISED AGENDA3",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
         }
       ],
       "discovered_at": "2026-10-09T18:20:39.189015+00:00"
@@ -1391,6 +1434,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1409,14 +1460,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-09T18:20:39.189015+00:00"
@@ -1434,6 +1477,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1452,14 +1503,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-09T01:13:00.165187+00:00"
@@ -1477,6 +1520,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1495,14 +1546,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-09T01:13:00.165187+00:00"
@@ -1520,6 +1563,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1538,14 +1589,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-09T01:13:00.165187+00:00"
@@ -1563,6 +1606,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1581,14 +1632,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-09T01:13:00.165187+00:00"
@@ -1606,6 +1649,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1624,14 +1675,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-14T00:17:06.298916+00:00"
@@ -1649,6 +1692,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1667,14 +1718,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-14T00:17:06.298916+00:00"
@@ -1692,6 +1735,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1710,14 +1761,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-14T00:17:06.298916+00:00"
@@ -1778,6 +1821,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1796,14 +1847,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-07T21:29:11.790045+00:00"
@@ -1821,6 +1864,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1839,14 +1890,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-13T19:15:32.635070+00:00"
@@ -1864,6 +1907,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1882,14 +1933,6 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-07T21:29:11.790045+00:00"
@@ -1907,6 +1950,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -1925,17 +1976,52 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-07T21:29:11.790045+00:00"
+    },
+    {
+      "id": "5449cddffee62ab5",
+      "district": "Lexington",
+      "date": "2026-10-14",
+      "time": "15:38",
+      "title": "Download Nov 3, 2026 \u2014\u2009Posted Oct 14, 2026 3:38 PM School Committee Community Conversation Forum Meeting Agenda - November 3, 2026 Download\u00a0\u25bc",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "School Committee Hybrid Meeting - October 13, 2026 - REVISED AGENDA3",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        }
+      ],
+      "discovered_at": "2026-10-14T21:39:36.894546+00:00"
     },
     {
       "id": "484f3e0beed7c83a",
@@ -2079,6 +2165,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
         },
@@ -2097,17 +2191,52 @@
         {
           "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
-        },
-        {
-          "label": "School Committee Finance Subcommittee Meeting Agenda - October 13, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4303"
         }
       ],
       "discovered_at": "2026-10-13T19:15:32.635070+00:00"
+    },
+    {
+      "id": "964e06ae5caeb1f8",
+      "district": "Lexington",
+      "date": "2026-10-15",
+      "time": "10:57",
+      "title": "Download\u00a0\u25bc Agenda Oct 15, 2026 \u2014\u2009Posted Oct 13, 2026 10:57 AM School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "School Committee Hybrid Meeting - October 13, 2026 - REVISED AGENDA3",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        }
+      ],
+      "discovered_at": "2026-10-14T21:39:36.894546+00:00"
     },
     {
       "id": "20c2975ddf1a261e",
@@ -2409,6 +2538,92 @@
         }
       ],
       "discovered_at": "2026-10-05T21:31:54.347356+00:00"
+    },
+    {
+      "id": "0d10dcbfb7c776a7",
+      "district": "Lexington",
+      "date": "2026-11-03",
+      "time": "15:38",
+      "title": "Minutes Download Nov 3, 2026 \u2014\u2009Posted Oct 14, 2026 3:38 PM School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "School Committee Hybrid Meeting - October 13, 2026 - REVISED AGENDA3",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        }
+      ],
+      "discovered_at": "2026-10-14T21:39:36.894546+00:00"
+    },
+    {
+      "id": "782792f5d30ec31c",
+      "district": "Lexington",
+      "date": "2026-11-03",
+      "time": "15:38",
+      "title": "Nov 3, 2026 \u2014\u2009Posted Oct 14, 2026 3:38 PM School Committee Community Conversation Forum Meeting Agenda - November 3, 2026 Download\u00a0\u25bc Agenda",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "School Committee Policy Subcommittee Remote Meeting Agenda - October 15, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10152026-4312"
+        },
+        {
+          "label": "School Committee Hybrid Meeting - October 13, 2026 - REVISED AGENDA3",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4316"
+        },
+        {
+          "label": "School Committee HYBRID Meeting Agenda - October 13, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10132026-4302"
+        }
+      ],
+      "discovered_at": "2026-10-14T21:39:36.894546+00:00"
     },
     {
       "id": "88b5923d95d70472",
