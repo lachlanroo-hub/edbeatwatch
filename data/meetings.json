@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:56:08.790409+00:00",
+  "generated_at": "2026-10-29T18:27:24.431348+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -3486,6 +3486,49 @@
       "discovered_at": "2026-10-05T21:31:54.347356+00:00"
     },
     {
+      "id": "106b53b3d36cd8a0",
+      "district": "Springfield",
+      "date": "2026-11-03",
+      "time": "11:00",
+      "title": "Upcoming Meetings Budget & Finance Subcommittee Meeting Date: Tuesday, November 3, 2026 Time: 11:00 AM Location: Springfield City Hall",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-29T18:27:24.431348+00:00"
+    },
+    {
       "id": "0d10dcbfb7c776a7",
       "district": "Lexington",
       "date": "2026-11-03",
@@ -3785,6 +3828,49 @@
         }
       ],
       "discovered_at": "2026-10-26T20:28:37.061851+00:00"
+    },
+    {
+      "id": "0c738bde2c9557bd",
+      "district": "Springfield",
+      "date": "2026-11-12",
+      "time": "18:00",
+      "title": "CLICK TO VIEW THE NOVEMBER 3RD AGENDA (PDF) Student Advisory Reps. (2) & Regular Meeting Date: Thursday, November 12, 2026 Time: 6:00 PM Location: Springfield City Hall",
+      "source_url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas",
+      "links": [
+        {
+          "label": "Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Spanish Q&A Nov 14 2024 Meeting",
+          "url": "https://www.springfieldpublicschools.com/departments/security/spanish_q__a_nov_14_2024_meeting"
+        },
+        {
+          "label": "Second Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
+        },
+        {
+          "label": "Public Participation at School Committee Meetings Policy",
+          "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting_schedule"
+        },
+        {
+          "label": "Meeting-Minutes Archive",
+          "url": "https://www.springfieldpublicschools.com/school_committee/school_committee_meeting-_minutes_archive"
+        },
+        {
+          "label": "Meeting Notices/Agendas",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
+        },
+        {
+          "label": "School Committee Meeting Public Speak Out Guidelines",
+          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
+        }
+      ],
+      "discovered_at": "2026-10-29T18:27:24.431348+00:00"
     },
     {
       "id": "d000afe33b9c22ad",
