@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:00:03.806455+00:00",
+  "generated_at": "2026-11-02T21:42:00.603823+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -3615,6 +3615,92 @@
       "discovered_at": "2026-10-14T21:39:36.894546+00:00"
     },
     {
+      "id": "f6ebaabd015decfd",
+      "district": "Masconomet",
+      "date": "2026-11-04",
+      "time": null,
+      "title": "Agenda and Materials Minutes November 4, 2026 November 04, 2026 November 04,2026",
+      "source_url": "https://www.masconomet.org/school-committee/meeting-agenda-minutes-documents/minutes-agendas-and-documents",
+      "links": [
+        {
+          "label": "School Committee Meeting Live Stream",
+          "url": "https://www.masconomet.org/school-committee/live-meeting-stream"
+        },
+        {
+          "label": "Meeting Schedule",
+          "url": "https://www.masconomet.org/school-committee/meeting-schedule"
+        },
+        {
+          "label": "Meeting Agenda, Minutes, Documents",
+          "url": "https://www.masconomet.org/school-committee/meeting-agenda-minutes-documents/minutes-agendas-and-documents"
+        },
+        {
+          "label": "Minutes, Agendas, and Documents",
+          "url": "https://www.masconomet.org/school-committee/meeting-agenda-minutes-documents/minutes-agendas-and-documents"
+        },
+        {
+          "label": "Open Meeting Resources",
+          "url": "https://www.masconomet.org/school-committee/open-meeting-resources"
+        },
+        {
+          "label": "Live Meeting Stream",
+          "url": "https://www.masconomet.org/school-committee/live-meeting-stream"
+        },
+        {
+          "label": "CS2 Video Games",
+          "url": "https://www.masconomet.org/departments/business-computer-ed/cs2-video-games"
+        },
+        {
+          "label": "Public Meetings",
+          "url": "https://www.masconomet.org/public-meetings"
+        }
+      ],
+      "discovered_at": "2026-11-02T21:42:00.603823+00:00"
+    },
+    {
+      "id": "ab2c7f5b1e3f2911",
+      "district": "Dudley-Charlton",
+      "date": "2026-11-10",
+      "time": "11:00",
+      "title": "School Committee Agendas, Minutes and Videos Upcoming School Committee Agendas Teaching &\u00a0Learning Subcommittee :\u00a0Tuesday, November 10, 2026 - 11:00am\u00a0- Video Conf Capital Outlay/Safety Subcommittee: Friday, November 13, 2026 - 10:00am\u00a0- Video Conference Schoo",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-11-02T21:42:00.603823+00:00"
+    },
+    {
       "id": "0bb69a7012e9b292",
       "district": "Dudley-Charlton",
       "date": "2026-11-10",
@@ -3873,6 +3959,49 @@
       "discovered_at": "2026-10-29T18:27:24.431348+00:00"
     },
     {
+      "id": "76797c0970a718f1",
+      "district": "Dudley-Charlton",
+      "date": "2026-11-13",
+      "time": "11:00",
+      "title": "Upcoming School Committee Agendas Teaching &\u00a0Learning Subcommittee :\u00a0Tuesday, November 10, 2026 - 11:00am\u00a0- Video Conf Capital Outlay/Safety Subcommittee: Friday, November 13, 2026 - 10:00am\u00a0- Video Conference School Committee Meeting: Wednesday, November 18, ",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-11-02T21:42:00.603823+00:00"
+    },
+    {
       "id": "d000afe33b9c22ad",
       "district": "Dudley-Charlton",
       "date": "2026-11-13",
@@ -3957,6 +4086,135 @@
         }
       ],
       "discovered_at": "2026-10-26T20:28:37.061851+00:00"
+    },
+    {
+      "id": "f57433d5a1a6c654",
+      "district": "Dudley-Charlton",
+      "date": "2026-11-18",
+      "time": "11:00",
+      "title": "Teaching &\u00a0Learning Subcommittee :\u00a0Tuesday, November 10, 2026 - 11:00am\u00a0- Video Conf Capital Outlay/Safety Subcommittee: Friday, November 13, 2026 - 10:00am\u00a0- Video Conference School Committee Meeting: Wednesday, November 18, 2026 - 6:30 pm - SHRHS Budget and ",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-11-02T21:42:00.603823+00:00"
+    },
+    {
+      "id": "e2ff775517f72d59",
+      "district": "Dudley-Charlton",
+      "date": "2026-11-20",
+      "time": "10:00",
+      "title": "Capital Outlay/Safety Subcommittee: Friday, November 13, 2026 - 10:00am\u00a0- Video Conference School Committee Meeting: Wednesday, November 18, 2026 - 6:30 pm - SHRHS Budget and Finance Subcommittee : Friday, November 20, 2026 - 3:00 PM\u00a0 - Video Conference Policy",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-11-02T21:42:00.603823+00:00"
+    },
+    {
+      "id": "af5cb710fa282ddf",
+      "district": "Dudley-Charlton",
+      "date": "2026-11-20",
+      "time": null,
+      "title": "Budget and Finance Subcommittee 2026 Minutes November 20, 2026 October 30, 2026 - October 2, 2026 - Agenda Only",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-11-02T21:42:00.603823+00:00"
     }
   ]
 }
