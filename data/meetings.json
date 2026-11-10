@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:51:14.370206+00:00",
+  "generated_at": "2026-11-10T21:17:02.750956+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -4108,6 +4108,10 @@
           "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
         },
         {
+          "label": "Third Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/third_gerena_school_community_meeting"
+        },
+        {
           "label": "Public Participation at School Committee Meetings Policy",
           "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
         },
@@ -4122,10 +4126,6 @@
         {
           "label": "Meeting Notices/Agendas",
           "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
-        },
-        {
-          "label": "School Committee Meeting Public Speak Out Guidelines",
-          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
         }
       ],
       "discovered_at": "2026-11-04T23:39:38.734467+00:00"
@@ -4280,6 +4280,10 @@
           "url": "https://www.springfieldpublicschools.com/news/News/second_gerena_school_community_meeting"
         },
         {
+          "label": "Third Gerena School Community Meeting",
+          "url": "https://www.springfieldpublicschools.com/news/News/third_gerena_school_community_meeting"
+        },
+        {
           "label": "Public Participation at School Committee Meetings Policy",
           "url": "https://www.springfieldpublicschools.com/parents/forms_and_policies/public_participation_at_school_committee_meetings_policy"
         },
@@ -4294,10 +4298,6 @@
         {
           "label": "Meeting Notices/Agendas",
           "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas"
-        },
-        {
-          "label": "School Committee Meeting Public Speak Out Guidelines",
-          "url": "https://www.springfieldpublicschools.com/school_committee/School_Committee_Subcommittee_Meeting_Agendas/public_speak_out_guidelines"
         }
       ],
       "discovered_at": "2026-11-04T23:39:38.734467+00:00"
