@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:33:22.371819+00:00",
+  "generated_at": "2026-11-10T14:51:14.370206+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -3744,6 +3744,49 @@
       "discovered_at": "2026-11-02T21:42:00.603823+00:00"
     },
     {
+      "id": "5643c7b1320a7c6e",
+      "district": "Lexington",
+      "date": "2026-11-10",
+      "time": "08:39",
+      "title": "Download Nov 17, 2026 \u2014\u2009Posted Nov 10, 2026 8:39 AM School Committee Finance Subcommittee Meeting Agenda - November 17, 2026 Download\u00a0\u25bc",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
+          "label": "School Committee Policy Subcommittee Remote Meeting Agenda - November 10, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11102026-4390"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11102026-4390"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "School Committee's Policy Subcommittee Remote Meeting Agenda - October 30, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10302026-4359"
+        }
+      ],
+      "discovered_at": "2026-11-10T14:51:14.370206+00:00"
+    },
+    {
       "id": "ab2c7f5b1e3f2911",
       "district": "Dudley-Charlton",
       "date": "2026-11-10",
@@ -3842,6 +3885,14 @@
           "url": "https://www.lexingtonma.gov/565/Town-Meeting"
         },
         {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
           "label": "School Committee Policy Subcommittee Remote Meeting Agenda - November 10, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11102026-4390"
         },
@@ -3860,17 +3911,52 @@
         {
           "label": "School Committee's Policy Subcommittee Remote Meeting Agenda - October 30, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10302026-4359"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10302026-4359"
-        },
-        {
-          "label": "School Committee Hybrid Meeting Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10272026-4348"
         }
       ],
       "discovered_at": "2026-11-03T23:21:01.278675+00:00"
+    },
+    {
+      "id": "54bd511da201dac1",
+      "district": "Lexington",
+      "date": "2026-11-10",
+      "time": "12:33",
+      "title": "Download\u00a0\u25bc Agenda Nov 10, 2026 \u2014\u2009Posted Nov 3, 2026 12:33 PM School Committee Policy Subcommittee Remote Meeting Agenda - November 10, 2026",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
+          "label": "School Committee Policy Subcommittee Remote Meeting Agenda - November 10, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11102026-4390"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11102026-4390"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "School Committee's Policy Subcommittee Remote Meeting Agenda - October 30, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10302026-4359"
+        }
+      ],
+      "discovered_at": "2026-11-10T14:51:14.370206+00:00"
     },
     {
       "id": "0bb69a7012e9b292",
@@ -4303,6 +4389,92 @@
       "discovered_at": "2026-11-09T19:47:23.125114+00:00"
     },
     {
+      "id": "93c1c7595af892b2",
+      "district": "Dudley-Charlton",
+      "date": "2026-11-13",
+      "time": "10:00",
+      "title": "School Committee Agendas, Minutes and Videos Upcoming School Committee Agendas Capital Outlay/Safety Subcommittee: Friday, November 13, 2026 - 10:00am\u00a0- Video Conference Teaching &\u00a0Learning Subcommittee :\u00a0Friday, November 13, 2026 - 11:00am\u00a0- Video Conference ",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-11-10T14:51:14.370206+00:00"
+    },
+    {
+      "id": "8bb3960cdeeff0bf",
+      "district": "Dudley-Charlton",
+      "date": "2026-11-13",
+      "time": "10:00",
+      "title": "Upcoming School Committee Agendas Capital Outlay/Safety Subcommittee: Friday, November 13, 2026 - 10:00am\u00a0- Video Conference Teaching &\u00a0Learning Subcommittee :\u00a0Friday, November 13, 2026 - 11:00am\u00a0- Video Conference School Committee Meeting: Wednesday, November",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-11-10T14:51:14.370206+00:00"
+    },
+    {
       "id": "76797c0970a718f1",
       "district": "Dudley-Charlton",
       "date": "2026-11-13",
@@ -4389,6 +4561,92 @@
       "discovered_at": "2026-10-19T20:34:49.622138+00:00"
     },
     {
+      "id": "5fe2b7698473ca17",
+      "district": "Lexington",
+      "date": "2026-11-17",
+      "time": "08:39",
+      "title": "Minutes Download Nov 17, 2026 \u2014\u2009Posted Nov 10, 2026 8:39 AM School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
+          "label": "School Committee Policy Subcommittee Remote Meeting Agenda - November 10, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11102026-4390"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11102026-4390"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "School Committee's Policy Subcommittee Remote Meeting Agenda - October 30, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10302026-4359"
+        }
+      ],
+      "discovered_at": "2026-11-10T14:51:14.370206+00:00"
+    },
+    {
+      "id": "4abb055e946ba52a",
+      "district": "Lexington",
+      "date": "2026-11-17",
+      "time": "08:39",
+      "title": "Nov 17, 2026 \u2014\u2009Posted Nov 10, 2026 8:39 AM School Committee Finance Subcommittee Meeting Agenda - November 17, 2026 Download\u00a0\u25bc Agenda",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        },
+        {
+          "label": "School Committee Policy Subcommittee Remote Meeting Agenda - November 10, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11102026-4390"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11102026-4390"
+        },
+        {
+          "label": "School Committee Community Conversation Forum Meeting Agenda - November 3, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11032026-4319"
+        },
+        {
+          "label": "School Committee's Policy Subcommittee Remote Meeting Agenda - October 30, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_10302026-4359"
+        }
+      ],
+      "discovered_at": "2026-11-10T14:51:14.370206+00:00"
+    },
+    {
       "id": "4c0ed3a80ec81350",
       "district": "Dudley-Charlton",
       "date": "2026-11-18",
@@ -4430,6 +4688,49 @@
         }
       ],
       "discovered_at": "2026-11-09T19:47:23.125114+00:00"
+    },
+    {
+      "id": "e84a82400a1732ff",
+      "district": "Dudley-Charlton",
+      "date": "2026-11-18",
+      "time": "10:00",
+      "title": "Capital Outlay/Safety Subcommittee: Friday, November 13, 2026 - 10:00am\u00a0- Video Conference Teaching &\u00a0Learning Subcommittee :\u00a0Friday, November 13, 2026 - 11:00am\u00a0- Video Conference School Committee Meeting: Wednesday, November 18, 2026 - 6:30 pm - SHRHS Budget",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-11-10T14:51:14.370206+00:00"
     },
     {
       "id": "c6650c6c075a3a75",
@@ -4602,6 +4903,49 @@
         }
       ],
       "discovered_at": "2026-11-09T19:47:23.125114+00:00"
+    },
+    {
+      "id": "8240be2375703a1c",
+      "district": "Dudley-Charlton",
+      "date": "2026-11-20",
+      "time": "11:00",
+      "title": "Teaching &\u00a0Learning Subcommittee :\u00a0Friday, November 13, 2026 - 11:00am\u00a0- Video Conference School Committee Meeting: Wednesday, November 18, 2026 - 6:30 pm - SHRHS Budget and Finance Subcommittee : Friday, November 20, 2026 - 3:00 PM\u00a0 - Video Conference Policy ",
+      "source_url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas",
+      "links": [
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "New Employee Benefits Packet",
+          "url": "https://www.dcrsd.org/about-dcrsd/district-employment/new-employee-benefits-packet"
+        },
+        {
+          "label": "School Committee Agendas, Minutes and Videos",
+          "url": "https://www.dcrsd.org/about-dcrsd/school-committee/upcoming-meeting-agendas"
+        },
+        {
+          "label": "DCRSD School Committee Meeting Videos (opens in new window/tab)",
+          "url": "https://vimeo.com/channels/dcrsdschoolcommitteemeet"
+        },
+        {
+          "label": "April 9, 2024 (Special Meeting)",
+          "url": "https://www.dcrsd.org/fs/resource-manager/view/c2e9c617-f6a1-4653-842e-3a27a4fea0ba"
+        }
+      ],
+      "discovered_at": "2026-11-10T14:51:14.370206+00:00"
     },
     {
       "id": "af5cb710fa282ddf",
