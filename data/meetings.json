@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:33:06.197385+00:00",
+  "generated_at": "2026-11-24T02:12:00.885979+00:00",
   "timezone": "America/New_York",
   "meetings": [
     {
@@ -5980,6 +5980,49 @@
       "discovered_at": "2026-11-02T21:42:00.603823+00:00"
     },
     {
+      "id": "4e61bee7cc532634",
+      "district": "Lexington",
+      "date": "2026-11-23",
+      "time": "10:43",
+      "title": "Agenda Dec 1, 2026 \u2014\u2009Posted Nov 23, 2026 10:43 AM School Committee Hybrid Meeting Agenda - December 1, 2026 Download\u00a0\u25bc",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Meeting - Finance Subcommittee - December 1, 2026 AGENDA",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4452"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4452"
+        },
+        {
+          "label": "School Committee Hybrid Meeting Agenda - December 1, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
+          "label": "Select Board Hybrid Financial Summit III Meeting Agenda with Appropriation Committee Capital Expenditures Committee, and",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11182026-4442"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11182026-4442"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        }
+      ],
+      "discovered_at": "2026-11-24T02:12:00.885979+00:00"
+    },
+    {
       "id": "0dfc7e3677e7d304",
       "district": "Springfield",
       "date": "2026-11-30",
@@ -6109,6 +6152,92 @@
       "discovered_at": "2026-11-18T20:28:49.977952+00:00"
     },
     {
+      "id": "eb064b86f274987e",
+      "district": "Lexington",
+      "date": "2026-12-01",
+      "time": "10:43",
+      "title": "Download\u00a0\u25bc Agenda Dec 1, 2026 \u2014\u2009Posted Nov 23, 2026 10:43 AM School Committee Hybrid Meeting Agenda - December 1, 2026",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Meeting - Finance Subcommittee - December 1, 2026 AGENDA",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4452"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4452"
+        },
+        {
+          "label": "School Committee Hybrid Meeting Agenda - December 1, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
+          "label": "Select Board Hybrid Financial Summit III Meeting Agenda with Appropriation Committee Capital Expenditures Committee, and",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11182026-4442"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11182026-4442"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        }
+      ],
+      "discovered_at": "2026-11-24T02:12:00.885979+00:00"
+    },
+    {
+      "id": "bbf0e2ba1f5bd671",
+      "district": "Lexington",
+      "date": "2026-12-01",
+      "time": "10:43",
+      "title": "Dec 1, 2026 \u2014\u2009Posted Nov 23, 2026 10:43 AM School Committee Hybrid Meeting Agenda - December 1, 2026 Download\u00a0\u25bc Agenda",
+      "source_url": "https://www.lexingtonma.gov/AgendaCenter/School-Committee-SC-52",
+      "links": [
+        {
+          "label": "Town Meeting",
+          "url": "https://www.lexingtonma.gov/565/Town-Meeting"
+        },
+        {
+          "label": "School Committee Meeting - Finance Subcommittee - December 1, 2026 AGENDA",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4452"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4452"
+        },
+        {
+          "label": "School Committee Hybrid Meeting Agenda - December 1, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
+          "label": "Select Board Hybrid Financial Summit III Meeting Agenda with Appropriation Committee Capital Expenditures Committee, and",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11182026-4442"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11182026-4442"
+        },
+        {
+          "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
+        }
+      ],
+      "discovered_at": "2026-11-24T02:12:00.885979+00:00"
+    },
+    {
       "id": "65e96b5e1f09bca7",
       "district": "Lexington",
       "date": "2026-12-01",
@@ -6129,6 +6258,14 @@
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4452"
         },
         {
+          "label": "School Committee Hybrid Meeting Agenda - December 1, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
           "label": "Select Board Hybrid Financial Summit III Meeting Agenda with Appropriation Committee Capital Expenditures Committee, and",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11182026-4442"
         },
@@ -6139,14 +6276,6 @@
         {
           "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
-        },
-        {
-          "label": "School Committee Hybrid Meeting Revised Agenda - November 17, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4427"
         }
       ],
       "discovered_at": "2026-11-18T20:28:49.977952+00:00"
@@ -6172,6 +6301,14 @@
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4452"
         },
         {
+          "label": "School Committee Hybrid Meeting Agenda - December 1, 2026",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
+          "label": "Agenda",
+          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_12012026-4462"
+        },
+        {
           "label": "Select Board Hybrid Financial Summit III Meeting Agenda with Appropriation Committee Capital Expenditures Committee, and",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11182026-4442"
         },
@@ -6182,14 +6319,6 @@
         {
           "label": "School Committee Finance Subcommittee Meeting Agenda - November 17, 2026",
           "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
-        },
-        {
-          "label": "Agenda",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4412"
-        },
-        {
-          "label": "School Committee Hybrid Meeting Revised Agenda - November 17, 2026",
-          "url": "https://www.lexingtonma.gov/AgendaCenter/ViewFile/Agenda/_11172026-4427"
         }
       ],
       "discovered_at": "2026-11-18T20:28:49.977952+00:00"
